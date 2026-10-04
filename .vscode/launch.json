@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LongestValidParenthesis",
+            "request": "launch",
+            "mainClass": "LongestValidParenthesis",
+            "projectName": "Dsa_ffd5226"
+        },
+        {
+            "type": "java",
             "name": "Debug ReverseSubstringsBetweenEachPairofParentheses",
             "request": "launch",
             "mainClass": "ReverseSubstringsBetweenEachPairofParentheses",
